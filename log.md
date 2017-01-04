@@ -8,3 +8,11 @@
 
 **Link to work:** [Learning ES6](http://codepen.io/UgoHarry/pen/ygLBWw)
 
+## Day 2:  04 January, 2017 
+
+**Today's Progress**: Still learning the new features on ES6.
+
+**Thoughts:** Hoping to round up on ES6 tomorrow and move on to JavaScript30
+
+**Link to work:** [Learning ES6](http://codepen.io/UgoHarry/pen/ygLBWw)
+
