@@ -16,3 +16,16 @@
 
 **Link to work:** [Learning ES6](http://codepen.io/UgoHarry/pen/ygLBWw)
 
+## Day 3:  05 January, 2017 
+
+**Today's Progress**: Still learning the new features on ES6.
+
+**Thoughts:** Finished with learning of ES6 features. Found issues with writing generators on Codepen, so will set up test environment on my local machine tomorrow
+
+**Link to work:** [Learning ES6](http://codepen.io/UgoHarry/pen/ygLBWw)
+
+## Day 4:  06 January, 2017 
+
+**Today's Progress**: Babel on Gulp, ES6 generators.
+
+**Thoughts:** Using Babel on a build system for the first time. Created some functions using ES6 features (including generators). Started with JavaScript30 
