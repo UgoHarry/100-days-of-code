@@ -29,3 +29,15 @@
 **Today's Progress**: Babel on Gulp, ES6 generators.
 
 **Thoughts:** Using Babel on a build system for the first time. Created some functions using ES6 features (including generators). Started with JavaScript30 
+
+## Day 5:  07 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 1
+
+**Thoughts:** JavaScript Drum Kit completed on JavaScript30. JSClock tomorrow
+
+## Day 6:  08 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 2
+
+**Thoughts:** Setup project files and started working on the JS Clock.
