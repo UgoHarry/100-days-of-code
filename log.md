@@ -41,3 +41,9 @@
 **Today's Progress**: JavaScript30 Challenge 2
 
 **Thoughts:** Setup project files and started working on the JS Clock.
+
+## Day 7:  09 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 2
+
+**Thoughts:** Completed the CSS-JS Clock on JavaScript30. Will add finishing touches tomorrow.
