@@ -47,3 +47,21 @@
 **Today's Progress**: JavaScript30 Challenge 2
 
 **Thoughts:** Completed the CSS-JS Clock on JavaScript30. Will add finishing touches tomorrow.
+
+## Day 8:  10 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 3
+
+**Thoughts:** Added finishing touches on JSClock. Started with next exercise project on CSS Variables
+
+## Day 9:  11 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 3
+
+**Thoughts:** Completed CSS Variable exercise. On to Array Cardio tomorrow 
+
+## Day 10:  12 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 4
+
+**Thoughts:** Relearning arrray methods with the array cardio exercise. 
