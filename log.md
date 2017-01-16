@@ -86,6 +86,6 @@
 
 ## Day 14:  16 January, 2017 
 
-**Today's Progress**: JavaScript30 Challenge 5
+**Today's Progress**: JavaScript30 Challenge 6
 
 **Thoughts:** Finished the AJAX Type Ahead exercise on JavaScript30
