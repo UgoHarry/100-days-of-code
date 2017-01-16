@@ -65,3 +65,27 @@
 **Today's Progress**: JavaScript30 Challenge 4
 
 **Thoughts:** Relearning arrray methods with the array cardio exercise. 
+
+## Day 11:  13 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 4
+
+**Thoughts:** Completed array cardio exercise part 1
+
+## Day 12:  14 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 5
+
+**Thoughts:** Started working on Flex Panels Gallery from JavaScript30
+
+## Day 13:  15 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 5
+
+**Thoughts:** Completed the Flex Panels Gallery
+
+## Day 14:  16 January, 2017 
+
+**Today's Progress**: JavaScript30 Challenge 5
+
+**Thoughts:** Finished the AJAX Type Ahead exercise on JavaScript30
